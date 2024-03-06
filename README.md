@@ -1,5 +1,8 @@
 # Analisis-Data-dengan-Python
 Project Akhir kelas Dicoding Belajar Analisis Data dengan Python
+- Nama : Arsenius Audley Wahyu Djatmiko
+- email : arseniuswahyu@gmail.com
+- dicoding_id : arsenius_audley
 
 ## Setup environment
 ```
